@@ -125,7 +125,7 @@ ul li a {
   -webkit-backdrop-filter: blur(4px);
 
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 500px;
 
   transition: background 0.2s;
 }
